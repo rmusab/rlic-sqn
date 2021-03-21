@@ -3,4 +3,4 @@ Implementation in Python of our SQN (Shallow Q-Network) algorithm for training a
 
 Published paper can be found here: https://doi.org/10.1109/ICECCO.2018.8634692
 
-Includes the presentation I gave during my Bachelor’s thesis defense.
+The repository includes the presentation I gave during my Bachelor’s thesis defense.
