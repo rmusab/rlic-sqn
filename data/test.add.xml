@@ -1,0 +1,38 @@
+<additional>
+
+    <tlLogic id="0" type="static" programID="1" offset="0">
+        <phase duration="33" state="GGGgrrrrGGGgrrrr"/>
+        <phase duration="3" state="yyyyrrrryyyyrrrr"/>
+        <phase duration="33" state="rrrrGGGgrrrrGGGg"/>
+        <phase duration="3" state="rrrryyyyrrrryyyy"/>
+    </tlLogic>
+
+  <entryExitDetector id="e_10" freq="100" file="out.xml">
+	   <detEntry lane="D10_0" pos="6"/>
+	   <detEntry lane="D10_1" pos="6"/>
+	   <detExit lane="D10_0" pos="490"/>
+	   <detExit lane="D10_1" pos="490"/>
+	</entryExitDetector>
+	
+	<entryExitDetector id="e_20" freq="100" file="out.xml">
+	   <detEntry lane="D20_0" pos="6"/>
+	   <detEntry lane="D20_1" pos="6"/>
+	   <detExit lane="D20_0" pos="490"/>
+	   <detExit lane="D20_1" pos="490"/>
+	</entryExitDetector>
+ 
+  <entryExitDetector id="e_30" freq="100" file="out.xml">
+	   <detEntry lane="D30_0" pos="6"/>
+	   <detEntry lane="D30_1" pos="6"/>
+	   <detExit lane="D30_0" pos="490"/>
+	   <detExit lane="D30_1" pos="490"/>
+	</entryExitDetector>
+ 
+ <entryExitDetector id="e_40" freq="100" file="out.xml">
+	   <detEntry lane="D40_0" pos="6"/>
+	   <detEntry lane="D40_1" pos="6"/>
+	   <detExit lane="D40_0" pos="490"/>
+	   <detExit lane="D40_1" pos="490"/>
+	</entryExitDetector>
+	
+</additional>
